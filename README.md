@@ -11,6 +11,7 @@ Aesthetic Notes is a beautiful note-taking app built using Flutter, featuring a 
 
 ## Screenshots
 
+![Notes Module](https://github.com/Shlok-Resist/AestheticNotes/assets/60575417/6e4b2274-433d-4909-98dd-6fce323cf697)
 
 
 ## Getting Started
